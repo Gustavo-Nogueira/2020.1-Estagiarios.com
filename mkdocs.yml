@@ -1,0 +1,18 @@
+site_name: Interação Humano Computador - Site UnB
+
+repo_name: ""
+repo_url: ""
+
+nav: 
+  - Home: index.md
+  - Planejamento: 
+      - Planejamento: planejamento/planejamento.md
+      - Ferramentas: planejamento/ferramentas.md
+
+theme:
+  name: material
+  favicon: 
+  logo: 
+  language: pt
+  palette:
+    primary: dark blue
