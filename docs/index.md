@@ -1,11 +1,15 @@
 <p align='center'>
-  <img src="./images/logo-site.jpg"
+  <a href="https://www.estagiarios.com/vagas_estagio_V3.asp" target="_blank">
+    <img src="./images/logo-site.jpg"/>
+  </a>
 </p>
 
 - - -
-# Descrição
-Este repositório destina-se à matéria de **Interação Humano-Computador** da Universidade de Brasília. O objetivo deste repositório é analisar e propor melhorias de usabilidade do site [estagiarios.com](https://www.estagiarios.com/).
-# Sobre
+# Sobre o projeto
+
+Este repositório destina-se à matéria de Interação Humano-Computador da Universidade de Brasília. O objetivo deste repositório é analisar e propor melhorias de usabilidade do site estagiarios.com.
+
+# Sobre o site
 Site serviços online relativos à seleção e contratação de Estagiários para Instituições de Ensino, Agentes de Integração, Consultorias de RH, Profissionais Liberais e Empresas concedentes de estágios, públicas e privadas.
 
 O Site é o primeiro, e único, Prestador de Serviços do segmento a disponibilizar, online, todos os documentos e procedimentos legais que formalizam juridicamente estas contratações - inclusive o Certificado de Seguro de Acidentes Pessoais (obrigatório) - nos termos da Legislação vigente.

@@ -1,14 +1,16 @@
-site_name: Interação Humano Computador - Estagiários.com
+site_name: Interação Humano Computador - Site Estagiarios.com
 
 repo_name: ""
 repo_url: ""
 
-nav: 
+nav:
   - Home: index.md
-  - Planejamento: 
+  - Planejamento:
       - Planejamento: planejamento/planejamento.md
       - Ferramentas: planejamento/ferramentas.md
-
+  - Perfil do Usuário:
+      - Questionário: perfil_usuario/questionario.md
+      - Personas: perfil_usuario/personas.md
 theme:
   name: material
   favicon: images/favicon.ico
