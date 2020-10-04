@@ -13,6 +13,9 @@ Perfil de usuário elaborado com base nos dados levantados nas respostas dos que
 * Apenas *23,5%* conseguem utilizar o site sem dificuldades;
 * Por fim, a grande maioria - *73,6%* - utiliza outros sites para buscar estágios (Como CIEE, Catho etc).
 
+### Observações
+Apesar da maior parte das respostas do questionários terem sido feitas por estudantes, é conveniente deixar claro que o site atende também **empresas** e **profissionais liberais** , que queiram anunciar vagas por exemplo, e **escolas** que queiram facilitar o acesso de seus estudantes às vagas fornecidas.
+
 - - -
 
 ## Histórico
@@ -20,3 +23,4 @@ Perfil de usuário elaborado com base nos dados levantados nas respostas dos que
 | Data     | Versão | Descrição                             | Autor(es)        |
 | -------- | ------ | ------------------------------------- | ---------------- |
 | 04/10/20 | 0.1    | Análise do questionário e elaboração do perfil de usuário  | Nícalo Ribeiro |
+| 04/10/20 | 0.2    | Adição de observação  | Nícalo Ribeiro |
