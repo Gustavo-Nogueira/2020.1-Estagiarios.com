@@ -12,7 +12,8 @@ Os seguintes sites foram levados em consideração para serem trabalhados na dis
 * Detran-DF;  
 * Prime Video;  
 * Correios;  
-* **UnB** *(escolhido)*.  
+* **UnB** *(escolhido inicialmente)*.  
+* * **Estagiarios.com** *(alterado para tal)*. 
   
 - - -  
 

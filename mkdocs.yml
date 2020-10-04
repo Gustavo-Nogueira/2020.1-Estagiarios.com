@@ -1,4 +1,4 @@
-site_name: Interação Humano Computador - Site UnB
+site_name: Interação Humano Computador - Estagiários.com
 
 repo_name: ""
 repo_url: ""
@@ -11,8 +11,8 @@ nav:
 
 theme:
   name: material
-  favicon: 
-  logo: 
+  favicon: images/favicon.ico
+  logo: images/favicon.ico
   language: pt
   palette:
-    primary: dark blue
+    primary: green
