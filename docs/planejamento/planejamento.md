@@ -1,5 +1,5 @@
 ## Planejamento
-O planejamento de projetos é uma série de práticas feitas no início do projeto, ou de cada onda ou Sprint, para estruturar os detalhes que devem guiar o gerenciamento e a execução do projeto. Esse planejamento visa esclarecer as atividades necessárias para analisar a interface do site de desktop da <a heref="https://www.unb.br/" target="blank">Universidade de Brasília</a> durante o semestre.
+O planejamento de projetos é uma série de práticas feitas no início do projeto, ou de cada onda ou Sprint, para estruturar os detalhes que devem guiar o gerenciamento e a execução do projeto. Esse planejamento visa esclarecer as atividades necessárias para analisar a interface do site <a heref="https://www.estagiarios.com/vagas_estagio_V3.asp" target="blank">Estagiarios.com</a> durante o semestre.
   
 - - -
   
@@ -9,10 +9,10 @@ Os seguintes sites foram levados em consideração para serem trabalhados na dis
 * SPTrans;  
 * Simula Bolsa;  
 * Shopping Correios;  
-* Detran-DF;  
 * Prime Video;  
 * Correios;  
-* **UnB** *(escolhido)*.  
+* Site da UnB; 
+* **Estagiarios.com***(escolhido)*.  
   
 - - -  
 
@@ -32,13 +32,22 @@ Ela é constituída por 3 partes :
   
 * **Instalção** : as opiniões dos usuário devem	ser	coletadas (após um tempo	de uso)	para melhorar o	sistemas em	versões	futuras	ou	adaptar	outros com problemas semelhantes.  
 
+<p align="center">
+    <img src="../images/diagrama-mayhew.png" /><br/>
+    <span style="text-align: center; font-size: 0.9em;" >
+        Fonte: Livro IHC [1]
+    </span>
+</p>
+- - -
 
-<img src="../images/diagrama-mayhew.png">
+| Data     | Versão | Descrição                 | Autor(es)                                         |
+| -------- | ------ | ------------------------- | ------------------------------------------------- |
+| 18/09/20 | 0.1    | Criação do Documento      | Nícalo Ribeiro                                    |
+| 19/09/20 | 0.2    | Topico Sites Avaliados    | Felipe Agustini,Gustavo Nogueira e Nícalo Ribeiro |
+| 20/09/20 | 0.3    | Topico Processo de Design | Felipe Agustini,Gustavo Nogueira e Nícalo Ribeiro |
 
 - - -
 
-| Data     | Versão | Descrição                         | Autor(es)                                        |
-| -------- | ------ | --------------------------------- | ------------------------------------------------ |
-| 18/09/20 | 0.1    | Criação do Documento              |Nícalo Ribeiro |
-| 19/09/20 | 0.2    | Topico Sites Avaliados |Felipe Agustini,Gustavo Nogueira e Nícalo Ribeiro|
-| 20/09/20 | 0.3    | Topico Processo de Design |Felipe Agustini,Gustavo Nogueira e Nícalo Ribeiro|
+## Referências
+
+[1] BARBOSA, Simone; SILVA, Bruno. Interação Humano-Computador. Rio de Janeiro – RJ: Elsevier Editora Ltda, 2010.
