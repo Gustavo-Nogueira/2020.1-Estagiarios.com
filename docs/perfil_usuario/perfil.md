@@ -23,4 +23,4 @@ Apesar da maior parte das respostas do questionários terem sido feitas por estu
 | Data     | Versão | Descrição                             | Autor(es)        |
 | -------- | ------ | ------------------------------------- | ---------------- |
 | 04/10/20 | 0.1    | Análise do questionário e elaboração do perfil de usuário  | Nícalo Ribeiro |
-| 04/10/20 | 0.2    | Adição de observação  | Nícalo Ribeiro |
+| 04/10/20 | 0.2    | Adição do tópico de observação  | Nícalo Ribeiro |
