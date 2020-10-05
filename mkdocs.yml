@@ -9,9 +9,10 @@ nav:
       - Planejamento: planejamento/planejamento.md
       - Ferramentas: planejamento/ferramentas.md
   - Perfil do Usuário:
-      - Questionário: perfil_usuario/questionario.md
       - Personas: perfil_usuario/personas.md
+      - Questionário: perfil_usuario/questionario.md
       - Perfil de Usuário: perfil_usuario/perfil.md
+      - Análise de Tarefas: perfil_usuario/analise_tarefas.md
 theme:
   name: material
   favicon: images/favicon.ico
