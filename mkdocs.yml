@@ -14,6 +14,7 @@ nav:
       - Perfil de Usuário: perfil_usuario/perfil.md
   - Análise de Tarefas: analise_tarefas/analise_tarefas.md
   - Metas de Usabilidade: metas_usabilidade/metas_usabilidade.md
+  - Guia de Estilo: guia_de_estilo/guia_de_estilo.md
 
 theme:
   name: material
