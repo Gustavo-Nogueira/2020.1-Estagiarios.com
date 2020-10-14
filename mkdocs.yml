@@ -13,6 +13,7 @@ nav:
       - Questionário: perfil_usuario/questionario.md
       - Perfil de Usuário: perfil_usuario/perfil.md
   - Análise de Tarefas: analise_tarefas/analise_tarefas.md
+  - Metas de Usabilidade: metas_usabilidade/metas_usabilidade.md
 
 theme:
   name: material
