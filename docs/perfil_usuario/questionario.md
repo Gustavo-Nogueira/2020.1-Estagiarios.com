@@ -29,7 +29,7 @@ Os questionários são formulários compostos por perguntas, abertas ou fechadas
 
 ## Histórico
 
-| Data     | Versão | Descrição        | Autor(es)                         |
-| -------- | ------ | ---------------- | --------------------------------- |
-| 03/10/20 | 0.1    | Adição da página | Gustavo Nogueira & Nícalo Ribeiro |
-| 04/10/20 | 0.2    | Adição dos dados obtidos com o questionário |Nícalo Ribeiro |
+| Data     | Versão | Descrição                                   | Autor(es)                         |
+| -------- | ------ | ------------------------------------------- | --------------------------------- |
+| 03/10/20 | 0.1    | Adição da página                            | Gustavo Nogueira & Nícalo Ribeiro |
+| 04/10/20 | 0.2    | Adição dos dados obtidos com o questionário | Nícalo Ribeiro                    |

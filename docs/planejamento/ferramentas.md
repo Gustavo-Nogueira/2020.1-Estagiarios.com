@@ -44,9 +44,11 @@
 
 ---
 
-| Data     | Versão | Descrição                         | Autor(es)                                        |
-| -------- | ------ | --------------------------------- | ------------------------------------------------ |
-| 19/09/20 | 0.1    | Criação do Documento              |Nícalo Ribeiro |
-| 20/09/20 | 0.2    | Elaboração do documento           |Felipe Agustini,Gustavo Nogueira e Nícalo Ribeiro|
+## Histórico
+
+| Data     | Versão | Descrição               | Autor(es)                                         |
+| -------- | ------ | ----------------------- | ------------------------------------------------- |
+| 19/09/20 | 0.1    | Criação do Documento    | Nícalo Ribeiro                                    |
+| 20/09/20 | 0.2    | Elaboração do documento | Felipe Agustini,Gustavo Nogueira e Nícalo Ribeiro |
 
 ---
