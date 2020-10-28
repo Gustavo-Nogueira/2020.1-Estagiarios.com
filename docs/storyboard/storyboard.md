@@ -166,3 +166,4 @@ A avalição teve a participação de uma universitária.
 ## Referências
 
 * PREECE, Jennifer; ROGERS, Yvonne; SHARP, Helen. Design de Interação: Além da Interação Humano-Computador. Editora Bookman, 3ª Edição.
+* Livro: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. 1ª edição, Rio de Janeiro: Elsevier, 2010.
