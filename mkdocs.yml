@@ -17,6 +17,7 @@ nav:
   - Princípios Gerais de Projeto: principios_gerais/principios_gerais.md
   - Metas de Usabilidade: metas_usabilidade/metas_usabilidade.md
   - Guia de Estilo: guia_de_estilo/guia_de_estilo.md
+  - Storyboard: storyboard/storyboard.md
 
 theme:
   name: material

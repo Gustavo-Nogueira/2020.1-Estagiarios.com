@@ -142,4 +142,4 @@ Não requer que decisões de design sejam tomadas;
 
 ## Referências
 
-[1] BARBOSA, Simone; SILVA, Bruno. Interação Humano-Computador, Capítulo 8 - Princípios e Diretrizes para o Design de IHC .Rio de Janeiro – RJ: Elsevier Editora Ltda, 2010.
+* [1] BARBOSA, Simone; SILVA, Bruno. Interação Humano-Computador, Capítulo 8 - Princípios e Diretrizes para o Design de IHC .Rio de Janeiro – RJ: Elsevier Editora Ltda, 2010.

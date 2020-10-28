@@ -55,4 +55,4 @@ Ela é constituída por 3 partes:
 
 ## Referências
 
-[1] BARBOSA, Simone; SILVA, Bruno. Interação Humano-Computador. Rio de Janeiro – RJ: Elsevier Editora Ltda, 2010.
+* [1] BARBOSA, Simone; SILVA, Bruno. Interação Humano-Computador. Rio de Janeiro – RJ: Elsevier Editora Ltda, 2010.

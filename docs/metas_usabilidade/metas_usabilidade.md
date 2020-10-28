@@ -66,8 +66,8 @@ são utilizados com pouca frequência?
 | 13/10/2020 | 0.1  | Criação da versão inicial da página |Nícalo Ribeiro |
 | 14/10/2020 | 0.2  | Adição da análise das metas de usuabilidade para o site |Nícalo Ribeiro |
 
-
 - - -
 
 ## Referências
-As 6 metas de Usabilidade. (2016). Retrieved 12 October 2020, from https://medium.com/uxcaboquinho/as-6-metas-de-usabilidade-9491442fd56a
+
+* As 6 metas de Usabilidade. (2016). Retrieved 12 October 2020, from <https://medium.com/uxcaboquinho/as-6-metas-de-usabilidade-9491442fd56a>
