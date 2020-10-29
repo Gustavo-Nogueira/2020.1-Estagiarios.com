@@ -1,5 +1,6 @@
-# Análise de tarefas
-
+# Análise de tarefas V1
+> [Segunda versão da Análise de Tarefas](analise_tarefas_v2.md)  
+  
 A análise de tarefas é a atividade que busca ter um etendimento sobre o trabalho dos usuário, como eles realizam este trabalho e o por quê. Nesse tipo de análise, o trabalho é definido em termos dos objetivos que os usuários querem ou precisam atingir.
 
 Dentre os métodos de análise de tarefas mais comuns, podemos destacar:
@@ -139,6 +140,7 @@ Não requer que decisões de design sejam tomadas;
 | -------- | ------ | --------------------- | ---------------- |
 | 04/10/20 | 0.1    | Adição do método HTA  | Gustavo Nogueira |
 | 04/10/20 | 0.2    | Adição do método GOMS | Nícalo Ribeiro   |
+| 29/10/20 | 0.3    | Definição de página secundária | Nícalo Ribeiro   |
 
 ## Referências
 
