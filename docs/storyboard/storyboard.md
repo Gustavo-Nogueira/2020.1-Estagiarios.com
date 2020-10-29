@@ -1,6 +1,6 @@
 # Storyboard
 
-O storyboard é um exemplo de prototipação de baixa-fidelidade que consiste em uma série de desenhos mostrando como um usuário pode progredir em uma tarefa utilizando o produto que está sendo desenvolvido. O papel fundamental do storyboard é permitir o entendimento de tudo sobre as tarefas. Dessa forma, um storyboard deve apresentar desenhos sobre as tarefas dos usuários.
+O storyboard é um tipo de prototipação de baixa-fidelidade que consiste em uma série de desenhos mostrando como um usuário pode progredir em uma tarefa utilizando o produto que está sendo desenvolvido. O papel fundamental do storyboard é permitir o entendimento de tudo sobre as tarefas. Dessa forma, um storyboard deve apresentar desenhos sobre as tarefas dos usuários.
 
 ---
 
