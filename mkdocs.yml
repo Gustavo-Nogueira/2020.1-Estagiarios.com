@@ -13,7 +13,9 @@ nav:
       - Questionário: perfil_usuario/questionario.md
       - Perfil de Usuário: perfil_usuario/perfil.md
   - Pontos de Controle: pontos_de_controle/pontos_de_controle.md
-  - Análise de Tarefas: analise_tarefas/analise_tarefas.md
+  - Análise de Tarefas: 
+      - Análise de tarefas v2: analise_tarefas/analise_tarefas_v2.md
+      - Análise de tarefas v1: analise_tarefas/analise_tarefas.md      
   - Princípios Gerais de Projeto: principios_gerais/principios_gerais.md
   - Metas de Usabilidade: metas_usabilidade/metas_usabilidade.md
   - Guia de Estilo: guia_de_estilo/guia_de_estilo.md
