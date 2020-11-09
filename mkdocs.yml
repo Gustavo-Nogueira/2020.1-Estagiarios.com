@@ -8,11 +8,11 @@ nav:
   - Planejamento:
       - Planejamento: planejamento/planejamento.md
       - Ferramentas: planejamento/ferramentas.md
+  - Pontos de Controle: pontos_de_controle/pontos_de_controle.md
   - Perfil do Usuário:
       - Personas: perfil_usuario/personas.md
       - Questionário: perfil_usuario/questionario.md
       - Perfil de Usuário: perfil_usuario/perfil.md
-  - Pontos de Controle: pontos_de_controle/pontos_de_controle.md
   - Análise de Tarefas: 
       - Análise de tarefas v2: analise_tarefas/analise_tarefas_v2.md
       - Análise de tarefas v1: analise_tarefas/analise_tarefas.md      
