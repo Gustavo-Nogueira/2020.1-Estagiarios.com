@@ -20,6 +20,7 @@ nav:
   - Metas de Usabilidade: metas_usabilidade/metas_usabilidade.md
   - Guia de Estilo: guia_de_estilo/guia_de_estilo.md
   - Storyboards: storyboard/storyboard.md
+  - Protótipo de Baixa Fidelidade: prototipo_de_baixa_fidelidade/prototipo_de_baixa_fidelidade.md
 
 theme:
   name: material
