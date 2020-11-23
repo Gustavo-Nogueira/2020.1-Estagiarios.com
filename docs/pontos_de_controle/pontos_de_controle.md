@@ -24,15 +24,23 @@ Esta página é reservada para documentar os pontos de controle do projeto da di
     <iframe width="560" height="315" src="https://www.youtube.com/embed/WGC2biibq_Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-#### PC 04 - Design, avaliação e desenvolvimento (Análise de Tarefas e Storyboard)
+#### PC 04 - Design, Avaliação e Desenvolvimento (Análise de Tarefas e Storyboard)
 
 <div style="display:flex; justify-content:space-around">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/bSUodaZP-eQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-#### PC 05
+#### PC 05 - Design, Avaliação e Desenvolvimento (Planejamento da Avaliação do Protótipo de Baixa Fidelidade)
 
-#### PC 06
+<div style="display:flex; justify-content:space-around">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/fWf5g0x43nw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+#### PC 06 - Design, Avaliação e Desenvolvimento (Relato dos Resultados da Avaliação do Protótipo de Baixa Fidelidade & Planejamento da Avaliação do Protótipo de Alta Fidelidade)
+
+<div style="display:flex; justify-content:space-around">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/pIiAlRHAQ1M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 #### PC 07
 
