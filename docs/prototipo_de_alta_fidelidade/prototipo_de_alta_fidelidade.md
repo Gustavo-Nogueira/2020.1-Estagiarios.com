@@ -1,6 +1,7 @@
 # Protótipo de Alta Fidelidade
 
 Um protótipo de alta fidelidade é uma representação interativa do produto, baseada no computador ou em dispositivos móveis. Esse protótipo já apresenta maior semelhança com o design final em termos de detalhes e funcionalidade.  
+
 Os protótipos de alta fidelidade abrangem não apenas a interface da pessoa usuária (UI) do produto em termos visuais e estéticos, mas também os aspectos da experiência do(a) usuário(a) (UX) em termos de interações, fluxo e comportamento.
 
 ---
@@ -17,7 +18,30 @@ Os protótipos de alta fidelidade abrangem não apenas a interface da pessoa usu
 
 Caso haja problema para visualizar o iframe, o protótipo pode ser acessado <a href="https://www.figma.com/proto/SlpkhTTLjHHYdoQRWiEFtF/Projeto-IHC-Alta-Fidelidade?node-id=4%3A0&scaling=scale-down" target="blank">clicando aqui</a>  
 
+## Avaliação do Storyboard
 
+### Preparação
+
+#### Termo de Consetimento
+
+<p align="center">
+    <iframe src="https://drive.google.com/file/d/1ei-pVNqQsAjDh91tz3gFHlaCQykWlS_C/preview" width="640" height="480"></iframe>
+</p>
+
+#### Participante(s)
+
+| Item  | Descrição                             |
+| ----- | ------------------------------------- |
+| Nome  | Guilherme Nogueira                    |
+| Perfil| Estudante do curso de Educação Física | 
+| Idade | 21                                    |
+
+#### Tarefas
+
+- Cadidatar-se a uma vaga;
+- Consultar e atualizar Currículo.
+
+---
 
 ## Histórico
 

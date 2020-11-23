@@ -42,7 +42,7 @@ Caso haja problema para visualizar o iframe, o protótipo pode ser acessado <a h
 
 #### Tarefas
 
-- Cadidatar-se a uma Vaga;
+- Cadidatar-se a uma vaga;
 - Consultar e atualizar Currículo.
 
 ### Relato dos Resultados
@@ -55,13 +55,25 @@ Caso haja problema para visualizar o iframe, o protótipo pode ser acessado <a h
 
 #### Problema(s) Encontrado(s)
 
-| Item                                    | Definição                                                                                 |
-| --------------------------------------- | ----------------------------------------------------------------------------------------- |
-| **Tarefa**                              | Consultar e atualizar currículo. |
-| **Local**                               | Opção de menu: Meu currículo. Aba: Escolaridade. |
-| **Descrição do Problema**               | A aba em geral e o nome do campo "Nome do Curso" gerou uma sensação de incerteza, pois o participante não sabia se a aba é destinada para cursos de curta duração (excel, p.ex) ou graduações, ensino médio etc.  |
-| **Fatores de Usabilidade Prejudicados** | Prevenção de erro. |
-| **Sugestão de Correção**                | Adição de um _placeholder_ para exemplificar os valores dos campos. |
+##### Problema 01
+
+| Item                                        | Definição                                                                                 |
+| ------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| **Tarefa**                                  | Consultar e atualizar currículo. |
+| **Local**                                   | > Opção de menu: Meu currículo. <br/> > Aba: Escolaridade. |
+| **Descrição do Problema**                   | A aba em geral e o nome do campo "Nome do Curso" gerou uma sensação de incerteza, pois o participante não sabia se a aba é destinada para cursos de curta duração (excel, p.ex) ou graduações, ensino médio etc.  |
+| **Fator(es) de Usabilidade Prejudicado(s)** | > Prevenção de erro. |
+| **Sugestão(ões) de Correção**               | > Adição de um _placeholder_ para exemplificar os valores dos campos; <br/> > Adição de página de ajuda. |
+
+##### Problema 02
+
+| Item                                        | Definição                                                                                 |
+| ------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| **Tarefa**                                  | Consultar e atualizar currículo. |
+| **Local**                                   | > Opção de menu: Meu currículo. <br/> > Aba: Experiência Profissional. |
+| **Descrição do Problema**                   | Falta de opção que permite informar que uma experência é a ocupação atual do usuário. Nesse caso, o campo "Data de Saída" não é aplicável.  |
+| **Fator(es) de Usabilidade Prejudicado(s)** | > Equivalência entre o sistema e o mundo real. |
+| **Sugestão(ões) de Correção**               | > Adição de um _checkbox_ para informar se a experências é a ocupação atual do usuário. |
 
 ---
 
