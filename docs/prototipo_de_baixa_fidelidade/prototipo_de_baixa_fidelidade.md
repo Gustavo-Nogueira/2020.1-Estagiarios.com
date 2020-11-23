@@ -22,18 +22,46 @@ Caso haja problema para visualizar o iframe, o protótipo pode ser acessado <a h
 
 ### Preparação
 
-**Tarefas:**
+#### Termo de Consetimento
+
+<p align="center">
+    <iframe src="https://drive.google.com/file/d/1ei-pVNqQsAjDh91tz3gFHlaCQykWlS_C/preview" width="640" height="480"></iframe>
+</p>
+
+#### Participante(s)
+
+| Item  | Descrição                             |
+| ----- | ------------------------------------- |
+| Nome  | Guilherme Nogueira                    |
+| Perfil| Estudante do curso de Educação Física | 
+| Idade | 21                                    |
+
+#### Avaliador(es)
+
+- Membro: Gustavo
+
+#### Tarefas
 
 - Cadidatar-se a uma Vaga;
-- Atualizar Currículo.
+- Consultar e atualizar Currículo.
 
-**Perfil do(s) participante(s):**
+### Relato dos Resultados
 
-- Universitários
+#### Objetivo(s) da Avaliação
 
-**Participante(s):**
+- Avaliar o protótipo a fim de encontrar problemas usabilidade relacionados as seguintes tarefas:
+    - Cadidatar-se a uma vaga;
+    - Consultar e atualizar currículo.
 
-- Juliana Pereira (Persona)
+#### Problema(s) Encontrado(s)
+
+| Item                                    | Definição                                                                                 |
+| --------------------------------------- | ----------------------------------------------------------------------------------------- |
+| **Tarefa**                              | Consultar e atualizar currículo. |
+| **Local**                               | Opção de menu: Meu currículo. Aba: Escolaridade. |
+| **Descrição do Problema**               | A aba em geral e o nome do campo "Nome do Curso" gerou uma sensação de incerteza, pois o participante não sabia se a aba é destinada para cursos de curta duração (excel, p.ex) ou graduações, ensino médio etc.  |
+| **Fatores de Usabilidade Prejudicados** | Prevenção de erro. |
+| **Sugestão de Correção**                | Adição de um _placeholder_ para exemplificar os valores dos campos. |
 
 ---
 
@@ -41,7 +69,8 @@ Caso haja problema para visualizar o iframe, o protótipo pode ser acessado <a h
 
 | Data       | Versão | Descrição                            | Autor(es)                         |
 | ---------- | ------ | ------------------------------------ | --------------------------------- |
-| 12/11/2020 | 0.1    | Adição da primera versão do artefato | Gustavo Nogueira & Nícalo Ribeiro  |
+| 12/11/2020 | 0.1    | Adição da primera versão do artefato | Gustavo Nogueira & Nícalo Ribeiro |
+| 23/11/2020 | 0.2    | Adição do relato dos resultados      | Gustavo Nogueira |
 
 ---
 
