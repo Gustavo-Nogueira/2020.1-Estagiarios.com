@@ -1,4 +1,4 @@
-# Verificação das Personas
+# Verificação do Protótipo de Alta Fidelidade
 
 O objetivo desse documento é verificar o [Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2020.1-Estagiarios.com/prototipo_de_alta_fidelidade/prototipo_de_alta_fidelidade/). Para tanto, devemos analisar o artefato e verificar se ele está de acordo com a notação do modelo e com o que se espera desse modelo.
 

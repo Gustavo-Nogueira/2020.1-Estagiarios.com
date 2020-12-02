@@ -1,4 +1,4 @@
-# Verificação das Personas
+# Verificação do Guia de Estilo
 
 O objetivo desse documento é verificar o [Guia de Estilo](https://interacao-humano-computador.github.io/2020.1-Estagiarios.com/guia_de_estilo/guia_de_estilo/). Para tanto, devemos analisar o artefato e verificar se ele está de acordo com a notação do modelo e com o que se espera desse modelo.
 

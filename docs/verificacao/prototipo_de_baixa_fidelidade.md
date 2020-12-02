@@ -1,4 +1,4 @@
-# Verificação das Personas
+# Verificação do Protótipo de Baixa Fidelidade
 
 O objetivo desse documento é verificar o [Protótipo de Baixa Fidelidade](https://interacao-humano-computador.github.io/2020.1-Estagiarios.com/prototipo_de_baixa_fidelidade/prototipo_de_baixa_fidelidade/). Para tanto, devemos analisar o artefato e verificar se ele está de acordo com a notação do modelo e com o que se espera desse modelo.
 
