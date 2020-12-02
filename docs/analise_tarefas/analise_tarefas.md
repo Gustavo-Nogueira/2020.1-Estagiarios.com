@@ -55,6 +55,16 @@ Técnica que busca representar o comportamento dinâmico da interação com o co
 - Métodos para atingir as metas (Methods): Seqüência de passos para se atingir uma meta. Seus passos podem ser submetas, operadores ou uma combinação de ambos;  
 - Regras de seleção de métodos (Selection rules): Regras para seleção do método a ser utilizado.
 
+**Exemplo**
+
+	GOAL 0: descobrir direção de tráfego de uma rua
+		GOAL 1: encontrar a rua
+			METHOD 1.A: zoom até o nível de ruas
+			(SEL. RULE: a região em que se situa a rua está visível no mapa e o usuário conhece o local)
+			METHOD 1.B: fazer busca pelo nome da rua
+			(SEL.RULE: o usuário não conhece o local ou o mapa visível está longe de lá)
+		GOAL 2: identifi car a direção do tráfego na rua
+
 ### GOMS (Card, Moran, and Newell’83)
 
 #### GOMS 01: Convênio de escola

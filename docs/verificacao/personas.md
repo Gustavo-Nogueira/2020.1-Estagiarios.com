@@ -1,6 +1,6 @@
 # Verificação das Personas
 
-O objetivo desse documento é verificar as [Personas do projeto](https://interacao-humano-computador.github.io/2020.1-Estagiarios.com/perfil_usuario/personas/). Para tanto, devemos analisar o artefato e verificar se ele está de acordo com a notação do modelo e com o que se espera desse modelo.
+O objetivo desse documento é verificar as [Personas](https://interacao-humano-computador.github.io/2020.1-Estagiarios.com/perfil_usuario/personas/). Para tanto, devemos analisar o artefato e verificar se ele está de acordo com a notação do modelo e com o que se espera desse modelo.
 
 ---
 
@@ -39,7 +39,7 @@ Critérios utilizados para a verificação das personas:
 
 ## Verificação
 
-### Persona 01 - Juliana Pereira
+### [Persona 01 - Juliana Pereira](https://interacao-humano-computador.github.io/2020.1-Estagiarios.com/perfil_usuario/personas/#persona-01)
 
 | Critério | Veredito |
 | -------- | -------- |
@@ -51,7 +51,7 @@ Critérios utilizados para a verificação das personas:
 | A especificação apresenta os relacionamentos da persona ? | <img src="../images/check.png"> |
 | A especificação apresenta os requisitos/desejos da persona ? | <img src="../images/check.png"> |
 
-### Persona 02 - Carlos Alberto
+### [Persona 02 - Carlos Alberto](https://interacao-humano-computador.github.io/2020.1-Estagiarios.com/perfil_usuario/personas/#persona-02)
 
 | Critério | Veredito |
 | -------- | -------- |
@@ -63,7 +63,7 @@ Critérios utilizados para a verificação das personas:
 | A especificação apresenta os relacionamentos da persona ? | <img src="../images/check.png"> |
 | A especificação apresenta os requisitos/desejos da persona ? | <img src="../images/check.png"> |
 
-### Antipersona 01 - Lucas Nascimento
+### [Antipersona 01 - Lucas Nascimento](https://interacao-humano-computador.github.io/2020.1-Estagiarios.com/perfil_usuario/personas/#antipersona-01)
 
 | Critério | Veredito |
 | -------- | -------- |
@@ -75,7 +75,7 @@ Critérios utilizados para a verificação das personas:
 | A especificação apresenta os relacionamentos da persona ? | <img src="../images/close.png"> |
 | A especificação apresenta os requisitos/desejos da persona ? | N/A |
 
-### Antipersona 02 - Maria Júlia
+### [Antipersona 02 - Maria Júlia](https://interacao-humano-computador.github.io/2020.1-Estagiarios.com/perfil_usuario/personas/#antipersona-02)
 
 | Critério | Veredito |
 | -------- | -------- |

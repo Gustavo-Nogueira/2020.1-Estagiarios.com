@@ -8,6 +8,13 @@ O objetivo desse documento é verificar o [Protótipo de Baixa Fidelidade](https
 
 Para verificar o documento de Protótipo de Baixa Fidelidade, elaboramos um checklist com os critérios essenciais para elaboração do protótipo. Essa técnica consiste em elaborar perguntas/critérios e verificar se o a artefato atende ou não atende os critérios exigidos. Dessa forma, levantando os problemas encontrados, para que, posteriormente, possam ser corrigidos.
 
+Alguns critérios utilizados para a verificação do protótipo foram baseados na tabela de atividades do método de prototipação em papel:
+
+<p align="center">
+    <img src="../images/tabela-de-atividades.png">
+    Fonte: BARBOSA, Interação Humano-Computador, p.359 [1]
+</p>
+
 ---
 
 ## Legenda
@@ -27,11 +34,18 @@ Para verificar o documento de Protótipo de Baixa Fidelidade, elaboramos um chec
 
 | Critério | Veredito |
 | -------- | -------- |
-| A especificação apresenta a explicação do artefato? | <img src="../images/check.png"> |
-| O protótipo possui foco nas funcionalidades ?| <img src="../images/check.png"> |
-| O protótipo apresenta as principais funcionalidades do site? | <img src="../images/check.png"> |
-| O protótipo apresenta o carregamento correto na página ? | <img src="../images/alert.png"> |
-| O protótipo apresenta a navegação entre as funcionalidades ? | <img src="../images/check.png"> |
+| _[Protótipo]_ O protótipo possui foco nas funcionalidades ?| <img src="../images/check.png"> |
+| _[Protótipo]_ O protótipo apresenta as principais funcionalidades do site ? | <img src="../images/check.png"> |
+| _[Protótipo]_ O protótipo apresenta o carregamento correto na página ? | <img src="../images/alert.png"> |
+| _[Protótipo]_ O protótipo apresenta a navegação entre as funcionalidades ? | <img src="../images/check.png"> |
+| _[Avaliação]_ A preparação da avaliação apresenta o termo de consentimento ? | <img src="../images/check.png"> | 
+| _[Avaliação]_ A preparação da avaliação apresenta as tarefas a serem avaliadas ? | <img src="../images/check.png"> |
+| _[Avaliação]_ A preparação da avaliação apresenta os participantes da avaliação ? | <img src="../images/check.png"> |
+| _[Avaliação]_ A preparação da avaliação apresenta os avaliadores da avaliação ? | <img src="../images/check.png"> |
+| _[Avaliação]_ Foi feito um teste-piloto ? | <img src="../images/close.png"> | 
+| _[Avaliação]_ O relato dos resultados apresenta os objetivos da avaliação ? | <img src="../images/check.png"> |
+| _[Avaliação]_ O relato dos resultados apresenta os problemas encontrados ? | <img src="../images/check.png"> |
+| _[Pós-Avaliação]_ Os problemas encontrados foram solucionados ? | <img src="../images/close.png"> |
 
 ---
 
