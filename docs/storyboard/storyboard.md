@@ -110,22 +110,28 @@ O storyboard é um tipo de prototipação de baixa-fidelidade que consiste em um
     <img src="../images/storyboard.png">
 </p>
 
-## Avaliação do Storyboard
+## Avaliação do Storyboard 01 
 
 ### Preparação
 
-**Tarefas:**
+#### Termo de Consetimento
+
+<p align="center">
+    <iframe src="https://drive.google.com/file/d/1ei-pVNqQsAjDh91tz3gFHlaCQykWlS_C/preview" width="640" height="480"></iframe>
+</p>
+
+#### Participante(s)
+
+| Item  | Descrição                             |
+| ----- | ------------------------------------- |
+| Nome  | Juliana Pereira (Persona)             |
+| Perfil| Estudante do curso de Direito         | 
+| Idade | 24                                    |
+
+#### Tarefas
 
 - Buscar vagas de estágio;
 - Cadidatar-se para as vagas desejadas.
-
-**Perfil do(s) participante(s):**
-
-- Universitários
-
-**Participante(s):**
-
-- Juliana Pereira (Persona)
 
 ### Coleta de dados e Interpretação
 
@@ -137,15 +143,13 @@ Problema(s) encontrado(s):
 
 ### Consolidação e Relato dos Resultados
 
-**Objetivos da Avaliação:**
+#### Objetivos da Avaliação
 
 Encontrar problemas usabilidade relacionados a tarefa que permite o usuário se candidatar para vagas de estágio.
 
-**Participantes:**
+#### Problema(s) Encontrado(s)
 
-A avalição teve a participação de uma universitária.
-
-**Problema(s) de Usabilidade Encontrado(s):**
+##### Problema 01
 
 | Item                                    | Definição                                                                                                    |
 | --------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
@@ -160,6 +164,7 @@ A avalição teve a participação de uma universitária.
 | Data       | Versão | Descrição                            | Autor(es)        |
 | ---------- | ------ | ------------------------------------ | ---------------- |
 | 27/10/2020 | 0.1    | Adição da primera versão do artefato | Gustavo Nogueira |
+| 01/12/2020 | 0.2    | Adição de ajustes na página          | Gustavo Nogueira |
 
 ---
 

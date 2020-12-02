@@ -18,7 +18,7 @@ A estética é bem artesanal, pois o que vale aqui é testar funcionalidades. Ou
 
 Caso haja problema para visualizar o iframe, o protótipo pode ser acessado <a href="https://www.figma.com/proto/3GpfFz2Ec46OQQhLY6cMVC/Prototipo-IHC?kind=&node-id=1%3A3&scaling=min-zoom" target="blank">clicando aqui</a>  
 
-## Avaliação do Storyboard
+## Avaliação do Protótipo
 
 ### Preparação
 
@@ -38,7 +38,7 @@ Caso haja problema para visualizar o iframe, o protótipo pode ser acessado <a h
 
 #### Avaliador(es)
 
-- Membro: Gustavo
+- Membro(s): Gustavo Nogueira.
 
 #### Tarefas
 
@@ -83,6 +83,7 @@ Caso haja problema para visualizar o iframe, o protótipo pode ser acessado <a h
 | ---------- | ------ | ------------------------------------ | --------------------------------- |
 | 12/11/2020 | 0.1    | Adição da primera versão do artefato | Gustavo Nogueira & Nícalo Ribeiro |
 | 23/11/2020 | 0.2    | Adição do relato dos resultados      | Gustavo Nogueira |
+| 01/12/2020 | 0.3    | Adição de ajustes na página          | Gustavo Nogueira |
 
 ---
 

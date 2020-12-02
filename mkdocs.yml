@@ -22,6 +22,13 @@ nav:
   - Storyboards: storyboard/storyboard.md
   - Protótipo de Baixa Fidelidade: prototipo_de_baixa_fidelidade/prototipo_de_baixa_fidelidade.md
   - Protótipo de Alta Fidelidade: prototipo_de_alta_fidelidade/prototipo_de_alta_fidelidade.md
+  - Verificação:
+    - Personas: verificacao/personas.md
+    - Análise de Tarefas: verificacao/analise_de_tarefas.md
+    - Guia de Estilo: verificacao/guia_de_estilo.md
+    - Storyboards: verificacao/storyboard.md
+    - Protótipo de Baixa Fidelidade: verificacao/prototipo_de_baixa_fidelidade.md
+    - Protótipo de Alta Fidelidade: verificacao/prototipo_de_alta_fidelidade.md
 
 theme:
   name: material

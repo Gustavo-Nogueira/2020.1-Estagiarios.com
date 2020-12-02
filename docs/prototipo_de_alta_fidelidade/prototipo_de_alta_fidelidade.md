@@ -18,7 +18,7 @@ Os protótipos de alta fidelidade abrangem não apenas a interface da pessoa usu
 
 Caso haja problema para visualizar o iframe, o protótipo pode ser acessado <a href="https://www.figma.com/proto/SlpkhTTLjHHYdoQRWiEFtF/Projeto-IHC-Alta-Fidelidade?node-id=4%3A0&scaling=scale-down" target="blank">clicando aqui</a>  
 
-## Avaliação do Storyboard
+## Avaliação do Protótipo
 
 ### Preparação
 
@@ -48,7 +48,8 @@ Caso haja problema para visualizar o iframe, o protótipo pode ser acessado <a h
 | Data       | Versão | Descrição                            | Autor(es)                         |
 | ---------- | ------ | ------------------------------------ | --------------------------------- |
 | 20/11/2020 | 0.1    | Construção do protótipo de alta fidelidade | Gustavo Nogueira & Nícalo Ribeiro |
-| 22/11/2020 | 0.2    | Criação e formatação da página      | Nícalo Ribeiro |
+| 22/11/2020 | 0.2    | Criação e formatação da página      | Nícalo Ribeiro   |
+| 01/12/2020 | 0.3    | Adição de ajustes na página         | Gustavo Nogueira |
 
 ---
 
