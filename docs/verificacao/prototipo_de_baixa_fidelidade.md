@@ -59,5 +59,5 @@ Alguns critérios utilizados para a verificação do protótipo foram baseados n
 
 ## Referências
 
-* Livro: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. 1ª edição, Rio de Janeiro: Elsevier, 2010.
-* SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 23. 1º/2019. 52 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
+* [1] Livro: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. 1ª edição, Rio de Janeiro: Elsevier, 2010.
+* [2] SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 23. 1º/2019. 52 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
