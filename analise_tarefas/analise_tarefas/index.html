@@ -831,6 +831,15 @@
 <li>Métodos para atingir as metas (Methods): Seqüência de passos para se atingir uma meta. Seus passos podem ser submetas, operadores ou uma combinação de ambos;  </li>
 <li>Regras de seleção de métodos (Selection rules): Regras para seleção do método a ser utilizado.</li>
 </ul>
+<p><strong>Exemplo</strong></p>
+<pre><code>GOAL 0: descobrir direção de tráfego de uma rua
+    GOAL 1: encontrar a rua
+        METHOD 1.A: zoom até o nível de ruas
+        (SEL. RULE: a região em que se situa a rua está visível no mapa e o usuário conhece o local)
+        METHOD 1.B: fazer busca pelo nome da rua
+        (SEL.RULE: o usuário não conhece o local ou o mapa visível está longe de lá)
+    GOAL 2: identifi car a direção do tráfego na rua
+</code></pre>
 <h3 id="goms-card-moran-and-newell83">GOMS (Card, Moran, and Newell’83)</h3>
 <h4 id="goms-01-convenio-de-escola">GOMS 01: Convênio de escola</h4>
 <pre><code>GOAL: CONVÊNIO-DE-ESCOLA  
