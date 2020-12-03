@@ -37,6 +37,17 @@ Critérios utilizados para a verificação das personas:
 
 ---
 
+## Resumo
+
+| Item | Quantidade |
+| ---- | --------- |
+| <img src="../images/check.png"> | 16 |
+| <img src="../images/alert.png"> | 5 |
+| <img src="../images/close.png"> | 3 |
+| N/A | 4 |
+
+---
+
 ## Verificação
 
 ### [Persona 01 - Juliana Pereira](https://interacao-humano-computador.github.io/2020.1-Estagiarios.com/perfil_usuario/personas/#persona-01)

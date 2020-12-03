@@ -27,6 +27,17 @@ Alguns critérios utilizados para a verificação do(s) storyboard(s) foram base
 
 ---
 
+## Resumo
+
+| Item | Quantidade |
+| ---- | --------- |
+| <img src="../images/check.png"> | 6 |
+| <img src="../images/alert.png"> | 0 |
+| <img src="../images/close.png"> | 4 |
+| N/A | 0 |
+
+---
+
 ## Verificação
 
 ### [Storyboard 01 - Candidatar-se a vagas de estágio](https://interacao-humano-computador.github.io/2020.1-Estagiarios.com/storyboard/storyboard/#storyboard-01-candidatar-se-a-vagas-de-estagio)

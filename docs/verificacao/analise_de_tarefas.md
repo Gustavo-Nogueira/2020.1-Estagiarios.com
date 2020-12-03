@@ -21,6 +21,28 @@ Para verificar a análise de tarefas elaboramos um checklist com os critérios e
 
 ---
 
+## Resumo
+
+### Análise Hierárquica de Tarefas (HTA)
+
+| Item | Quantidade |
+| ---- | --------- |
+| <img src="../images/check.png"> | 6 |
+| <img src="../images/alert.png"> | 0 |
+| <img src="../images/close.png"> | 2 |
+| N/A | 0 |
+
+### Análise GOMS
+
+| Item | Quantidade |
+| ---- | --------- |
+| <img src="../images/check.png"> | 2 |
+| <img src="../images/alert.png"> | 0 |
+| <img src="../images/close.png"> | 6 |
+| N/A | 0 |
+
+---
+
 ## Verificação
 
 ### Análise Hierárquica de Tarefas (HTA)

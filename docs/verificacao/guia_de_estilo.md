@@ -21,6 +21,17 @@ Para verificar o documento de Guia de Estilo, elaboramos um checklist com os cri
 
 ---
 
+## Resumo
+
+| Item | Quantidade |
+| ---- | --------- |
+| <img src="../images/check.png"> | 9 |
+| <img src="../images/alert.png"> | 0 |
+| <img src="../images/close.png"> | 0 |
+| N/A | 0 |
+
+---
+
 ## Verificação
 
 ### Guia de Estilo

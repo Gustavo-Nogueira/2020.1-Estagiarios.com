@@ -28,6 +28,17 @@ Alguns critérios utilizados para a verificação do protótipo foram baseados n
 
 ---
 
+## Resumo
+
+| Item | Quantidade |
+| ---- | --------- |
+| <img src="../images/check.png"> | 8 |
+| <img src="../images/alert.png"> | 0 |
+| <img src="../images/close.png"> | 4 |
+| N/A | 0 |
+
+---
+
 ## Verificação
 
 ### Protótipo de Alta fidelidade
@@ -43,8 +54,8 @@ Alguns critérios utilizados para a verificação do protótipo foram baseados n
 | _[Avaliação]_ A preparação da avaliação apresenta os participantes da avaliação ? | <img src="../images/check.png"> |
 | _[Avaliação]_ A preparação da avaliação apresenta os avaliadores da avaliação ? | <img src="../images/check.png"> |
 | _[Avaliação]_ Foi feito um teste-piloto ? | <img src="../images/close.png"> | 
-| _[Avaliação]_ O relato dos resultados apresenta os objetivos da avaliação ? | <img src="../images/check.png"> |
-| _[Avaliação]_ O relato dos resultados apresenta os problemas encontrados ? | <img src="../images/check.png"> |
+| _[Avaliação]_ O relato dos resultados apresenta os objetivos da avaliação ? | <img src="../images/close.png"> |
+| _[Avaliação]_ O relato dos resultados apresenta os problemas encontrados ? | <img src="../images/close.png"> |
 | _[Pós-Avaliação]_ Os problemas encontrados foram solucionados ? | <img src="../images/close.png"> |
 
 ---

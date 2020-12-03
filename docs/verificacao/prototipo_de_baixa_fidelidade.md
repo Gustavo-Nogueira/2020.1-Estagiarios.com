@@ -28,6 +28,17 @@ Alguns critérios utilizados para a verificação do protótipo foram baseados n
 
 ---
 
+## Resumo
+
+| Item | Quantidade |
+| ---- | --------- |
+| <img src="../images/check.png"> | 9 |
+| <img src="../images/alert.png"> | 1 |
+| <img src="../images/close.png"> | 2 |
+| N/A | 0 |
+
+---
+
 ## Verificação
 
 ### Protótipo de Baixa fidelidade
