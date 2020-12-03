@@ -42,8 +42,11 @@ Esta página é reservada para documentar os pontos de controle do projeto da di
     <iframe width="560" height="315" src="https://www.youtube.com/embed/pIiAlRHAQ1M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-#### PC 07
+#### PC 07 (Verificação & Entrega Final)
 
+<div style="display:flex; justify-content:space-around">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/5Ok6ZrFHlSo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 ---
 
 ## Histórico
