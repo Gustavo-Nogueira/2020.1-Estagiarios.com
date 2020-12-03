@@ -6,7 +6,7 @@ O planejamento de projetos é uma série de práticas feitas no início do proje
 
 ### Sites Avaliados
 
-Os seguintes sites foram levados em consideração para serem trabalhados na disciplina. Eles foram sugeridos com base nas experiências de uso dos próprios integrantes e por indicaçãp de pessoas próximas dos membros.
+Os seguintes sites foram levados em consideração para serem trabalhados na disciplina. Eles foram sugeridos com base nas experiências de uso dos próprios integrantes e por indicação de pessoas próximas dos membros.
 
 - SPTrans;
 - Simula Bolsa;
@@ -14,7 +14,7 @@ Os seguintes sites foram levados em consideração para serem trabalhados na dis
 - Prime Video;
 - Correios;
 - **UnB** _(escolhido inicialmente)_.
-- - **Estagiarios.com** _(nova escolha)_.
+- **Estagiarios.com** _(nova escolha)_.
 
 ---
 
