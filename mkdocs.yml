@@ -9,26 +9,28 @@ nav:
       - Planejamento: planejamento/planejamento.md
       - Ferramentas: planejamento/ferramentas.md
   - Pontos de Controle: pontos_de_controle/pontos_de_controle.md
-  - Perfil do Usuário:
-      - Personas: perfil_usuario/personas.md
-      - Questionário: perfil_usuario/questionario.md
-      - Perfil de Usuário: perfil_usuario/perfil.md
-  - Análise de Tarefas: 
-      - Análise de tarefas v2: analise_tarefas/analise_tarefas_v2.md
-      - Análise de tarefas v1: analise_tarefas/analise_tarefas.md      
-  - Princípios Gerais de Projeto: principios_gerais/principios_gerais.md
-  - Metas de Usabilidade: metas_usabilidade/metas_usabilidade.md
-  - Guia de Estilo: guia_de_estilo/guia_de_estilo.md
-  - Storyboards: storyboard/storyboard.md
-  - Protótipo de Baixa Fidelidade: prototipo_de_baixa_fidelidade/prototipo_de_baixa_fidelidade.md
-  - Protótipo de Alta Fidelidade: prototipo_de_alta_fidelidade/prototipo_de_alta_fidelidade.md
-  - Verificação:
-    - Personas: verificacao/personas.md
-    - Análise de Tarefas: verificacao/analise_de_tarefas.md
-    - Guia de Estilo: verificacao/guia_de_estilo.md
-    - Storyboards: verificacao/storyboard.md
-    - Protótipo de Baixa Fidelidade: verificacao/prototipo_de_baixa_fidelidade.md
-    - Protótipo de Alta Fidelidade: verificacao/prototipo_de_alta_fidelidade.md
+  - Análise de Requisitos:
+    - Perfil do Usuário:
+        - Personas: perfil_usuario/personas.md
+        - Questionário: perfil_usuario/questionario.md
+        - Perfil de Usuário: perfil_usuario/perfil.md
+    - Análise de Tarefas: 
+        - Análise de tarefas v2: analise_tarefas/analise_tarefas_v2.md
+        - Análise de tarefas v1: analise_tarefas/analise_tarefas.md      
+    - Princípios Gerais de Projeto: principios_gerais/principios_gerais.md
+    - Metas de Usabilidade: metas_usabilidade/metas_usabilidade.md
+    - Guia de Estilo: guia_de_estilo/guia_de_estilo.md
+  - Design, Avaliação e Desenvolvimento:
+    - Storyboards: storyboard/storyboard.md
+    - Protótipo de Baixa Fidelidade: prototipo_de_baixa_fidelidade/prototipo_de_baixa_fidelidade.md
+    - Protótipo de Alta Fidelidade: prototipo_de_alta_fidelidade/prototipo_de_alta_fidelidade.md
+    - Verificação:
+      - Personas: verificacao/personas.md
+      - Análise de Tarefas: verificacao/analise_de_tarefas.md
+      - Guia de Estilo: verificacao/guia_de_estilo.md
+      - Storyboards: verificacao/storyboard.md
+      - Protótipo de Baixa Fidelidade: verificacao/prototipo_de_baixa_fidelidade.md
+      - Protótipo de Alta Fidelidade: verificacao/prototipo_de_alta_fidelidade.md
 
 theme:
   name: material
